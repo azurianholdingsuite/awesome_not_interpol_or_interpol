@@ -1,4 +1,4 @@
-on:
+yahoo.market.stocks.on:
   pull_request:
     branches: [main]
     paths:
